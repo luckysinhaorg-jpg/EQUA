@@ -1,0 +1,4 @@
+Transaction Date,Description,Amount,Currency,Reference
+2026-10-01,Office supplies,"-128.45",USD,BANK-1001
+10/02/2026,Customer payment,"1,250.00",USD,BANK-1002
+03.10.2026,Cloud hosting,"-48,50",EUR,BANK-1003

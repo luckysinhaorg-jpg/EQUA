@@ -1,0 +1,3 @@
+Date,Name,Type,Status,Currency,Gross,Fee,Net,Transaction ID
+2026-10-01,Office Supplies,Payment,Completed,USD,-128.45,0.00,-128.45,PP-SAMPLE-1001
+2026-10-02,Sample Customer,Payment Received,Completed,USD,1250.00,-36.55,1213.45,PP-SAMPLE-1002
